@@ -1,3 +1,3 @@
 # CSV-s
-Manipulating CSV 
+Manipulating CSV files
 These are different scripts to manipulate different csv's for various reports at work
